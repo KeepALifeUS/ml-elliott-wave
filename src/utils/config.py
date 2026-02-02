@@ -2,7 +2,7 @@
 Configuration management for Elliott Wave Analyzer.
 
 Configuration as Code with environment-specific overrides
-и secure credential management.
+and secure credential management.
 """
 
 import os

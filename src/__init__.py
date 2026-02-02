@@ -21,7 +21,7 @@ from .visualization import *
 from .api import *
 from .utils import *
 
-# Основные классы для простого импорта
+# Main classes for easy import
 from .patterns.impulse_wave import ImpulseWaveDetector
 from .patterns.corrective_wave import CorrectiveWaveDetector
 from .analysis.wave_counter import WaveCounter
