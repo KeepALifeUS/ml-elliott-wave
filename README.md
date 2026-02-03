@@ -496,3 +496,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Production-Ready | Crypto-Optimized**
+
+## Support
+
+For questions and support, please open an issue on GitHub.
